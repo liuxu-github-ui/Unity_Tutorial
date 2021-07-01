@@ -1,0 +1,9 @@
+C:\Users\xuliu102\Desktop\Unity_coursera\More C#\Week1\Windows-Programming-Assignment-1-Materials\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\ProgrammingAssignment1.exe.config
+C:\Users\xuliu102\Desktop\Unity_coursera\More C#\Week1\Windows-Programming-Assignment-1-Materials\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\ProgrammingAssignment1.exe
+C:\Users\xuliu102\Desktop\Unity_coursera\More C#\Week1\Windows-Programming-Assignment-1-Materials\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\ProgrammingAssignment1.pdb
+C:\Users\xuliu102\Desktop\Unity_coursera\More C#\Week1\Windows-Programming-Assignment-1-Materials\ProgrammingAssignment1\ProgrammingAssignment1\bin\Debug\LinkedLists.dll
+C:\Users\xuliu102\Desktop\Unity_coursera\More C#\Week1\Windows-Programming-Assignment-1-Materials\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.csprojAssemblyReference.cache
+C:\Users\xuliu102\Desktop\Unity_coursera\More C#\Week1\Windows-Programming-Assignment-1-Materials\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.csproj.CoreCompileInputs.cache
+C:\Users\xuliu102\Desktop\Unity_coursera\More C#\Week1\Windows-Programming-Assignment-1-Materials\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.csproj.CopyComplete
+C:\Users\xuliu102\Desktop\Unity_coursera\More C#\Week1\Windows-Programming-Assignment-1-Materials\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.exe
+C:\Users\xuliu102\Desktop\Unity_coursera\More C#\Week1\Windows-Programming-Assignment-1-Materials\ProgrammingAssignment1\ProgrammingAssignment1\obj\Debug\ProgrammingAssignment1.pdb
